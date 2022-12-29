@@ -1,0 +1,12 @@
+.flights {
+    padding: 2rem;
+    /* background-color: rgb(31, 31, 31); */
+    /* border-radius: 12px; */
+    margin: 2rem auto;
+    width: 60rem;
+    max-width: 95%;
+}
+
+.flights h1 {
+    /* color: #ffffff; */
+}

@@ -1,0 +1,23 @@
+.enable-disable-gates {
+    text-align: center;
+}
+
+.terminals {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.terminal {
+    background: #ffffff;
+    box-shadow: 10px 5px 5px #000000;
+    border-radius: 12px;
+    width: 31%;
+    margin: 1%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.not-available {
+    color: #ffffff;
+    margin: auto;
+}

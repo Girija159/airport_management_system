@@ -1,0 +1,18 @@
+.form-wrapper {
+    width: 45%;
+    margin: 1% 20%;
+    border-radius: 6px;
+    margin-left: 25%;
+    /* background-color: #52527a; */
+    border: 2px #017BFE solid;
+    /* color: white; */
+    padding: 50px;
+    font-weight: lighter;
+    margin-top: 94px;
+    /* border-radius: 55px 0px 55px 0px;  */
+}
+
+.input
+{
+    background: transparent;   
+}

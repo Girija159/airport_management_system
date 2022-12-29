@@ -1,0 +1,4 @@
+.arrivals-departures {
+    display: flex;
+    flex-wrap: wrap;
+}

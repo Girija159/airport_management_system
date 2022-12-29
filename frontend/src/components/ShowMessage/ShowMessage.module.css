@@ -1,0 +1,25 @@
+.show-message-wrapper {
+    text-align: center;
+    color: #000000;
+    position: absolute;
+    top: 90%;
+    right: 5%;
+}
+
+.show-success-message {
+    padding: 20px;
+    border: 1px solid #017BFE;
+    border-radius: 6px;
+    background-color: #efffef;
+    color: green;
+    font-weight: bold;
+}
+
+.show-error-message {
+    padding: 20px;
+    border: 1px solid #ff0000;
+    border-radius: 6px;
+    background-color: #ffe0e0;
+    color: red;
+    font-weight: bold;
+}

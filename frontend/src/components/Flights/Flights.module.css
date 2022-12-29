@@ -1,0 +1,19 @@
+.flights h1 {
+    /* color: #ffffff; */
+    text-align: center;
+    margin-top: 0;
+}
+
+.flights-list {
+    list-style: none;
+    padding: 0;
+}
+
+.flights {
+    padding: 2rem;
+    /* background-color: rgb(31, 31, 31); */
+    border-radius: 12px;
+    margin: 2rem auto;
+    width: 70rem;
+    max-width: 95%;
+}
