@@ -1,0 +1,28 @@
+.plane {
+  margin-left: 50%;
+  height: 80px;
+  margin-top: 70px;
+  position: absolute;
+  z-index: 2;
+  animation: plane 6s infinite;
+  top: 13px;
+}
+
+@keyframes plane {
+  25% {
+    margin-top: 85px;
+  }
+  50% {
+    margin-left: 48%;
+  }
+  75% {
+    margin-left: 46%;
+    margin-top: 60px;
+  }
+  100% {
+    margin-top: 70px;
+    margin-left: 20%;
+  }
+}
+
+

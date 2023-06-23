@@ -1,0 +1,44 @@
+.small-card {
+    display: flex;
+    flex-direction: column;
+    width: 5.5rem;
+    height: 5.5rem;
+    border: 1px solid #ececec;
+    margin: 1px;
+    background-color: white;
+    /* color: white; */
+    /* border-radius: 12px; */
+    align-items: center;
+    justify-content: center;
+}
+
+.small-card h2 {
+    font-size: 2rem !important;
+}
+
+.small-card-green {
+    display: flex;
+    flex-direction: column;
+    width: 6rem;
+    height: 6rem;
+    border: 1px solid #017BFE;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    margin: 1%;
+    cursor: pointer;
+}
+
+.small-card-red {
+    display: flex;
+    flex-direction: column;
+    width: 6rem;
+    height: 6rem;
+    border: 1px solid red;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    margin: 1%;
+    cursor: pointer;
+}
+
